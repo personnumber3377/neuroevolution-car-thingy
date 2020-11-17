@@ -1,0 +1,1 @@
+make the check if the state is terminal a bit more clear (not really needed, because we are going to replace this with time)
